@@ -1,0 +1,9 @@
+Summ rule:
+neutral - 71.0 - 43.8%
+good - 50.0 - 30.9%
+bad - 41.0 - 25.3%
+
+Procent rule:
+neutral - 129.0 - 79.6%
+good - 23.0 - 14.2%
+bad - 10.0 - 6.17%
